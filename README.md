@@ -1,7 +1,5 @@
 # testflaskaws
-
-#!/bin/bash
-
+USERDATA
 # Update and install dependencies
 sudo apt-get update -y
 sudo apt-get install -y python3-pip python3-dev git python3-flask python3-mysql.connector python3-gunicorn python3-flask-cors python3-flask-sqlalchemy
